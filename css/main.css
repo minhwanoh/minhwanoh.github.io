@@ -488,6 +488,13 @@ h4 {
     font-style: italic;
     opacity: 0.7;
   }
+
+  .paper-emph {
+    font-style: italic;
+    opacity: 0.7;
+    color: #4cad9c;
+  }
+
   .i_am {
     /* font-style: italic; */
     opacity: 0.5;
